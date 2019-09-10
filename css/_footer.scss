@@ -1,0 +1,32 @@
+.footer {
+    clear: both;
+    background: $mainColor;
+    padding: 30px;
+
+}
+
+.footer-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-nav-img {
+    width: 100px;
+}
+
+.footer-nav-leftItem {
+    display: inline-block;
+}
+
+.footer-nav-rightItems {
+    margin-right: 5%;
+}
+
+.footer-nav-leftItems {
+    margin-left: 5%;
+}
+
+.footer-nav-rightItem {
+    display: inline-block;
+}

@@ -1,0 +1,20 @@
+$mainColor: lightblue;
+
+.nav {
+    background: $mainColor;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-img {
+    width: 100px;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-items {
+    margin-right: 10%;
+}
